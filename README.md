@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currenntly I'm looking for a starting frontend position (preferably JS with React).
+Currently I'm looking for a starting frontend position (preferably JS with React).
 
 Meanwhile I continue to learn JS by reading articles and books as well as watching educational videos and practicing.
 In the rest time I like to watch movies in English and plan future vacations (fingers crossed on borders opening!)
