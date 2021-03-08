@@ -5,7 +5,7 @@ Currently I'm looking for a starting frontend position (preferably JS with React
 Meanwhile I continue to learn JS by reading articles and books as well as watching educational videos and practicing.
 In the rest time I like to watch movies in English and plan future vacations (fingers crossed on borders opening!)
 
-Fun fact: I've been working for 3 years in McDonalds and 5 years in a berr company - so I have a funny story literally on every lofe situation!
+Fun fact: I've been working for 3 years in McDonalds and 5 years in a beer company - so I have a funny story literally on every lofe situation!
 
 All jokes aside, I've got a bunch of soft skills from my working experience.
 I'm the person who can effectively plan and use her time to deliver the best product, who can plan and lead a call, and document all the alignments after that, whi can create instructions and conduct learning sessions...
