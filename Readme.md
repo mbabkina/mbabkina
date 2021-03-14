@@ -13,7 +13,7 @@ I'm the person who can effectively plan and use her time to deliver the best pro
 If you are interested at this moment - jum to the next sections to discover more!
 
 <hr>
-<h3>Tech Stack: <img width="30" src="img/girlcomputer.svg"> </h3>
+<h3>Tech Stack:</h3>
 
 <span><img height="30" title="JavaScript" src="img/javascript.svg"></span>
 <span><img height="30" title="HTML5" src="img/html.svg"></span>
@@ -25,7 +25,7 @@ If you are interested at this moment - jum to the next sections to discover more
 
 <hr>
 
-**<h3>Tools: <img width="30" src="img/computer.svg"></h3>**
+**<h3>Tools:</h3>**
 <span><img height="30" title="Visual Studio Code" src="img/visual-studio-code.svg"></span>
 <span><img height="30" title="GitHub" src="img/github.svg"></span>
 <span><img height="30" title="Figma" src="img/figma.svg"></span>
