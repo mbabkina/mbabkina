@@ -33,6 +33,6 @@ If you are interested at this moment - jum to the next sections to discover more
 
 <hr>
 
-**<h3>How to reach me:<img width="30" src="img/computer.svg"></h3>**
+**<h3>How to reach me:</h3>**
 [![Telegram](https://img.shields.io/badge/-Telegram-282928?style=for-the-badge&logo=Telegram&labelColor=D4D5D7)](https://t.me/mbabkina)
 [![linkedIn](https://img.shields.io/badge/-linkedIn-282928?style=for-the-badge&logo=linkedIn&labelColor=D4D5D7&logoColor=4CA0F4)](https://www.linkedin.com/in/maryna-babkina/)
